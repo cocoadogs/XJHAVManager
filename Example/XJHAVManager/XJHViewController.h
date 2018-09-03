@@ -1,12 +1,12 @@
 //
 //  XJHViewController.h
-//  XJHAVManager
+//  XJHAVManager_Example
 //
-//  Created by xujunhao on 09/03/2018.
-//  Copyright (c) 2018 xujunhao. All rights reserved.
+//  Created by xujunhao on 2018/9/3.
+//  Copyright © 2018年 xujunhao. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @interface XJHViewController : UIViewController
 
