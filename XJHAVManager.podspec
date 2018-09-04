@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XJHAVManager'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of XJHAVManager.'
+  s.version          = '0.1.1'
+  s.summary          = 'A iOS camera and photo album authority check library'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
